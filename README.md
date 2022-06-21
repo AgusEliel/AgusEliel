@@ -21,18 +21,7 @@ I AM A LOVER OF DESIGN AND THE AESTHETICS OF THINGS, I APPLY ALL MY KNOWLEDGE IN
   
 
 <br/>  
-
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
+ 
 
 
 ## Languages and Tools  
