@@ -68,11 +68,3 @@ I AM A LOVER OF DESIGN AND THE AESTHETICS OF THINGS, I APPLY ALL MY KNOWLEDGE IN
                     align="center"
                 />
             </a></div>  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
